@@ -1,2 +1,2 @@
 # pypi_package
-A python package for learning from the Wise Old Owl
+A package for learning python from Wise Old Owl - WOO!
